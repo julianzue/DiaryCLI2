@@ -4,6 +4,9 @@
 With this app you can insert your activitates of your day.
 It will be saved with the current date and time.
 
+## Screenshot
+![image info](./Screenshot.png)
+
 ## Usage / Commands
 - add<br>
   Adds an event to diary
