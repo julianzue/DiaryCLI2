@@ -5,19 +5,19 @@ With this app you can insert your activitates of your day.
 It will be saved with the current date and time.
 
 ## Usage / Commands
-- add
-  - Adds an event to diary
+- add<br>
+  Adds an event to diary
   
-- list
+- list<br>
   - Lists the events of the diary
   
-- search
+- search<br>
   - Search in the list
   
-- help
+- help<br>
   - Shows the help page
   
-- quit
+- quit<br>
   - Closes the diary program
 
 ## Requirements
