@@ -9,16 +9,16 @@ It will be saved with the current date and time.
   Adds an event to diary
   
 - list<br>
-  - Lists the events of the diary
+  Lists the events of the diary
   
 - search<br>
-  - Search in the list
+  Search in the list
   
 - help<br>
-  - Shows the help page
+  Shows the help page
   
 - quit<br>
-  - Closes the diary program
+  Closes the diary program
 
 ## Requirements
 - colorama
