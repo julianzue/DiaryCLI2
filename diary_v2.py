@@ -100,7 +100,7 @@ class Diary():
         with open("diary.txt", "a") as fa:
             fa.write(time.strftime("%Y-%m-%d %H:%M") + " | " + day + " " + event_time + " | " + event + "\n")
 
-            text = "Event: " + b + event + re + " sucessfully added to " + c + "diary.txt" + re + "!"
+            text = "Event: " + b + event + re + " sucessfully added to " + b + "diary.txt" + re + "!"
             print(output("info", "*", text))
 
         self.prompt()
